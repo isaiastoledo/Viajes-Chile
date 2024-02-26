@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo{
+    width: 10px;
+    height: 10px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.botton-icon{
+   background-color: aqua;
+   height: 50px;
+}
+
+.text-p{
+    text-align: left;
+}
+
+.img-hero{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+}
+
+.custom-tooltip {
+    background-color: darkslategray;
+    --bs-tooltip-color: var(--bs-white);
+  }
+
+
+
+
+
+
+
